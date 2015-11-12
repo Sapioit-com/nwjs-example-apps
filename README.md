@@ -8,8 +8,8 @@ Please visit [nw.js group](http://groups.google.com/group/nwjs-general) for disc
 
 ## How to run apps
 
-[Web2Executable](https://github.com/jyapayne/Web2Executable) - Compiling for Windows, Linux and Mac for x32 and x64 <br/>
-[nw.js wik run apps](https://github.com/nwjs/nw.js/wiki/How-to-run-apps) - Just running apps in nw.ks
+[**Web2Executable**](https://github.com/jyapayne/Web2Executable) - Compiling for Windows, Linux and Mac for x32 and x64 <br/>
+[**nw.js wik run apps**](https://github.com/nwjs/nw.js/wiki/How-to-run-apps) - Just running apps in nw.ks
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>

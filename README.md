@@ -1,7 +1,7 @@
 # Example apps for NW.js
 
-Some other sample apps for nw.js are [https://github.com/nwjs/nw.js](here),<br/>
-Other example apps for nw.js can be found [https://github.com/zcbenz/nw-sample-apps](here).
+Some other sample apps for nw.js are [here](https://github.com/nwjs/nw.js).<br/>
+Other example apps for nw.js can be found [here](https://github.com/zcbenz/nw-sample-apps).
 
 Please visit [nw.js group](http://groups.google.com/group/nwjs-general) for discussions.
 

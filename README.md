@@ -12,29 +12,7 @@ Compiling for Windows, Linux and Mac for x32 and x64 : https://github.com/jyapay
 Just Running: https://github.com/nwjs/nw.js/wiki/How-to-run-apps
 
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+- - -
 
 
 ## Licence

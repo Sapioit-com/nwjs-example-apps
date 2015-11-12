@@ -11,6 +11,31 @@ Please visit [nw.js group](http://groups.google.com/group/nwjs-general) for disc
 Compiling for Windows, Linux and Mac for x32 and x64 : https://github.com/jyapayne/Web2Executable
 Just Running: https://github.com/nwjs/nw.js/wiki/How-to-run-apps
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Licence
 
 The MIT License (MIT)

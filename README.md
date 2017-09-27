@@ -1,4 +1,4 @@
-# Example apps for NW.js
+# Example apps for NW.js [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 A few example apps for nw.js can be found at [*zcbenz*/**nw-sample-apps**](https://github.com/zcbenz/nw-sample-apps).<br/>
 Some other sample apps for nw.js are found at: [*nwjs*/**nw.js**/tests](https://github.com/nwjs/nw.js/tree/nw13/tests).
